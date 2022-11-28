@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_genarator/constant.dart';
-import 'package:flutter_genarator/textformpage/components/body.dart';
-import 'package:flutter_genarator/textformpage/form_screen.dart';
+import 'package:flutter_genarator/screen/textform/body.dart';
+import 'package:flutter_genarator/screen/textform/form_screen.dart';
 
 class NavDrawer extends StatelessWidget {
   @override

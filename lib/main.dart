@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_genarator/constant.dart';
-import 'package:flutter_genarator/navbar/navbar.dart';
-import 'package:flutter_genarator/textformpage/components/body.dart';
+import 'package:flutter_genarator/components/navbar.dart';
+import 'package:flutter_genarator/screen/textform/body.dart';
 
 void main() {
   runApp(const MyApp());

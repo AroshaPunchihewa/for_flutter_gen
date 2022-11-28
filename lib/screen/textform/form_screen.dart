@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_genarator/navbar/navbar.dart';
-import 'package:flutter_genarator/textformpage/components/body.dart';
+import 'package:flutter_genarator/components/navbar.dart';
+import 'package:flutter_genarator/screen/textform/body.dart';
 
 class FormScreen extends StatelessWidget {
   @override
