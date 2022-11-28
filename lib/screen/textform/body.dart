@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_genarator/components/rounded_button.dart';
-import 'package:flutter_genarator/components/rounded_input_field.dart';
+import 'package:flutter_genarator/components_widgets/rounded_button.dart';
+import 'package:flutter_genarator/components_widgets/rounded_input_field.dart';
 import 'package:flutter_genarator/screen/textform/background.dart';
 
 class Body extends StatelessWidget {
